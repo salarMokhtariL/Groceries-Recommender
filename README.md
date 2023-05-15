@@ -1,2 +1,2 @@
 # Groceries-Recommender
-> By $Salar$ $Mokhtari$ $Laleh%
+> By $Salar$ $Mokhtari$ $Laleh$
