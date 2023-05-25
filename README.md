@@ -3,6 +3,9 @@
 
 > By $Helya$ $Hosseini$ $Nami$ & $Salar$ $Mokhtari$ $Laleh$
 
+![Pink and Peach Technology LinkedIn Banner (3)](https://github.com/salarMokhtariL/salarMokhtariL/assets/75142232/0a2891df-3ecf-4702-9cbc-f57f55286884)
+
+
 
 # Introduction
 This notebook provides an implementation of a recommender system using PyTorch and demonstrates how to train and evaluate the model on a dataset of grocery transactions. The system utilizes item embeddings to represent the items in the dataset and computes their similarity to make recommendations.
