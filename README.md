@@ -1,5 +1,7 @@
 # Groceries-Recommender-System
-> By $Salar$ $Mokhtari$ $Laleh$
+## Scalable Recommender System Development with PyTorch and Pandas for Enhanced Personalization
+
+> By $Helya$ $Hosseini$ $Nami$ & $Salar$ $Mokhtari$ $Laleh$
 
 
 # License
