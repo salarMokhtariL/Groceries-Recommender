@@ -1,7 +1,7 @@
 # Groceries Recommender System
 ## Scalable Recommender System Development with PyTorch and Pandas for Enhanced Personalization
 
-> By $Helya$ $Hosseini$ $Nami$ & $Salar$ $Mokhtari$ $Laleh$
+> By $Salar$ $Mokhtari$ $Laleh$
 
 
 ![Pink and Peach Technology LinkedIn Banner (3)](https://github.com/salarMokhtariL/salarMokhtariL/assets/75142232/0a2891df-3ecf-4702-9cbc-f57f55286884)
